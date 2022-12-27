@@ -1,2 +1,2 @@
-# SIVDashboard
-This repository contain tools and source code related SIV Dashboard.
+# Dashboard
+This repository contain tools and source code related Dashboard.
